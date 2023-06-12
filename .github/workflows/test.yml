@@ -1,4 +1,4 @@
-name: ci
+name: ci-actions
 on: [push, workflow_dispatch]
 jobs:
   build-and-test:
